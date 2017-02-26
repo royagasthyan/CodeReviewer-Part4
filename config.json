@@ -1,0 +1,21 @@
+[{
+    "name": "project_x",
+    "git_url": "https://github.com/royagasthyan/project_x",
+    "followup_frequency":2,
+    "members": [
+    	"royagasthyan@gmail.com",
+    	"rodddy57@gmail.com",
+    	"jay3dec@gmail.com",
+    	"italespinner@gmail.com"
+    ]
+}, {
+    "name": "project_y",
+    "git_url": "https://github.com/royagasthyan/project_y",
+    "followup_frequency":2,
+    "members": [
+    	"royagasthyan",
+    	"hari",
+    	"sam",
+    	"shaun"
+    ]
+}]
